@@ -3,6 +3,12 @@
 
 A personal expense tracking and analytics dashboard built with Python and Streamlit. Track income and expenses, analyze spending, and visualize financial data.
 
+### 🚀 Live Demo
+[Open Expense Tracker](https://expense-tracker-4eek3ie7qtexreu2bgbmu6.streamlit.app/)
+
+### 💻 GitHub Repository
+[View Source Code](https://github.com/Nikhil-kumar100/Expense-Tracker)
+
 ## 🚀 Features
 
 - Add income and expense transactions
