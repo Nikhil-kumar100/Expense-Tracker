@@ -9,6 +9,10 @@ A personal expense tracking and analytics dashboard built with Python and Stream
 ### 💻 GitHub Repository
 [View Source Code](https://github.com/Nikhil-kumar100/Expense-Tracker)
 
+## 📸 Dashboard Preview
+
+![Expense Tracker Dashboard](screenshots/dashboard.png)
+
 ## 🚀 Features
 
 - Add income and expense transactions
