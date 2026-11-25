@@ -4,6 +4,9 @@ import sqlite3
 import pandas as pd
 from datetime import date
 from io import BytesIO
+from database import create_table
+
+
 
 # Page settings
 st.set_page_config(
@@ -11,6 +14,9 @@ st.set_page_config(
     page_icon="💰",
     layout="wide"
 )
+
+# Initialize database
+create_table()
 
 # Dark theme styling
 st.markdown("""
